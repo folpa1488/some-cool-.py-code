@@ -1,1 +1,1 @@
-t.mem/goida_code
+t.me/goida_code
